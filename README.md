@@ -1,3 +1,3 @@
-# TeXLive-Full
+# TeX Live Full
 
-TeXLive Full Docker Image
+TeX Live Full Docker Image
