@@ -1,3 +1,3 @@
 # TeXLive-Full
 
-TEX Live Full Docker Image
+TeXLive Full Docker Image
